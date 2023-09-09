@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jai tyagi
+- 👋 Hi, I’m @jivansh tyagi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 reach me via jivanshtyagi9116@gmail.com
