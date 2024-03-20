@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jivansh tyagi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently pursuing BTech (CSE)
 - 📫 reach me via jivanshtyagi9116@gmail.com
 
 <!---
